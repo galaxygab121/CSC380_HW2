@@ -1,4 +1,3 @@
-# CSC380 – Homework 2: FrozenLake Reinforcement Learning
 # 🧊 CSC 380 – Homework 2: FrozenLake Reinforcement Learning  
 
 **Author:** Gabrielle Boyer-Baker  
@@ -99,6 +98,7 @@ CSC380_HW2/
 Install with:
 ```bash
 pip install gymnasium numpy matplotlib jupyter
+```
 Run the notebook in VS Code or JupyterLab:
 jupyter notebook HW2_FrozenLake_Gabrielle.ipynb
 🏁 Acknowledgments
@@ -108,11 +108,3 @@ Student: Gabrielle Boyer-Baker
 
 ---
 
-### 🔧 To add it to your repo
-In your terminal (inside `CSC380_HW2`):
-
-```bash
-echo "<paste the above markdown here>" > README.md
-git add README.md
-git commit -m "Add README with project overview and reflection"
-git push
